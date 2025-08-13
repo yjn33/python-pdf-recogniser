@@ -9,8 +9,8 @@ https://dune-textbook-c77.notion.site/PDF-24bd1dbdda2881eea5bdf3784ba99931?sourc
 ## Paddle OCR을 활용한 페이지 숫자 인식기 설명 노션
 https://dune-textbook-c77.notion.site/PaddleOCR-24bd1dbdda2880d8989cec9293d335a7?source=copy_link
 
+<img width="1233" height="719" alt="image" src="https://github.com/user-attachments/assets/b3f8f4b2-ffe8-4a89-b78a-48c0d5519111" />
 
-<img width="1224" height="719" alt="image" src="https://github.com/user-attachments/assets/ca113d4c-0b9c-493e-860f-22fe1f82213c" />
 
 
 
