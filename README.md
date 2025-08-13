@@ -10,7 +10,8 @@ https://dune-textbook-c77.notion.site/PDF-24bd1dbdda2881eea5bdf3784ba99931?sourc
 https://dune-textbook-c77.notion.site/PaddleOCR-24bd1dbdda2880d8989cec9293d335a7?source=copy_link
 
 
-<img width="1256" height="747" alt="스크린샷 2025-08-12 17-56-03" src="https://github.com/user-attachments/assets/fd2a9e34-f3e6-4b7b-b389-e83dd94723e8" />
+<img width="1224" height="719" alt="image" src="https://github.com/user-attachments/assets/ca113d4c-0b9c-493e-860f-22fe1f82213c" />
+
 
 
 
